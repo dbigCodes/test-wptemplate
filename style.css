@@ -1,4 +1,13 @@
 /*
+Theme Name: Child Theme
+Description: This is a child theme that extends the parent theme.
+Author: Your Name
+Template: parent-theme-name
+*/
+
+/* Custom styles for the child theme */
+
+/*
 ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
 */
 
@@ -655,6 +664,10 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.ml-10 {
+  margin-left: 2.5rem;
 }
 
 .box-border {
@@ -1779,8 +1792,17 @@ video {
   vertical-align: super;
 }
 
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
 .font-bold {
   font-weight: 700;
+}
+
+.font-extrabold {
+  font-weight: 800;
 }
 
 .uppercase {
