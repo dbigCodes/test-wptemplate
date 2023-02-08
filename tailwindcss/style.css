@@ -1,11 +1,9 @@
 /*
-Theme Name: Child Theme
-Description: This is a child theme that extends the parent theme.
-Author: Your Name
-Template: parent-theme-name
+Theme Name: LMS
+Author: Jesrel
+Description: A simple parent theme for WordPress.
+Version: 1.0
 */
-
-/* Custom styles for the child theme */
 
 @tailwind base;
 @tailwind components;
